@@ -1,4 +1,4 @@
-# Excel Column Fixer
+ # Excel Column Fixer
 
 This project helps you clean and standardize country and region names in an Excel file column using Python and pandas. It scans a specified column for country names, regions, and US states, then extracts and lists them in a clean format.
 
